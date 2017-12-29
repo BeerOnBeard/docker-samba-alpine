@@ -1,2 +1,2 @@
-FROM pwntr/samba-alpine-docker
+FROM pwntr/samba-alpine
 COPY smb.conf /config/smb.conf
